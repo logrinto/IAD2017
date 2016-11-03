@@ -41,12 +41,14 @@ Einen grafischen Vorschlag in digitaler Form.
 #### Inhalt (15%)
 * Inhaltliche Aussage/Struktur wurden erhalten oder verstärkt
 * Alle Inhaltselemente wurden genügend Visualisiert (Verständlichkeit des Entwurfs)
+
 #### Grafisches Konzept (75%)
 * Das Grafische Konzept ist schlüssig und durchgängig
 * Grafische Sprache ergänzt/entspricht dem restlichen Inhalt der Website
 * Typografie überlegt eingesetzt
 * Seitenarchitektur überlegt erweitert
 * Zweckmässigkeit gegeben
+
 #### Technik (10%)
 * Die abgegebenen Visualisierungen sind verständlich um technische Abklärungen zu treffen.
 * Realisierbarkeit ist im Rahmen des vertrauten Webdesigns möglich
