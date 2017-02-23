@@ -2,7 +2,7 @@
 
 
 ## Grundsatz
-In der Hausaufgabe, die als Teil des Aufnahmeverfahrens für das im Herbst 2017 beginnende Studium des Interaction Designs als Zulassungskriterium zählt, ist nachfolgende Aufgabe bis zum *29.03.2017 23:59 Uhr* zu erfüllen.
+In der Hausaufgabe, die als Teil des Aufnahmeverfahrens für das im Herbst 2017 beginnende Studium des Interaction Designs als Zulassungskriterium zählt, ist nachfolgende Aufgabe bis zum *20.03.2017 23:59 Uhr* zu erfüllen.
 Die Hausaufgabe ist so angelegt, dass nicht nur bestehendes Wissen abgeruft werden kann, sondern unter Umständen im Selbststudium weitere Informationen beschafft werden müssen um die Aufgaben zu erfüllen. 
 Sollte es nicht möglich sein, ein Teil der Aufgaben oder deren Unterbedinungen zu erfüllen, so empfehlen wir eine Abgabe/Dokumentation der bis dahin erreichten Schritte. 
 
