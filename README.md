@@ -2,7 +2,7 @@
 
 
 ## Grundsatz
-In der Hausaufgabe, die als Teil des Aufnahmeverfahrens für das im Frühjahr 2017 beginnende Studium des Interaction Designs als Zulassungskriterium zählt, ist nachfolgende Aufgabe bis zum *24.11.2016 23:59 Uhr* zu erfüllen.
+In der Hausaufgabe, die als Teil des Aufnahmeverfahrens für das im Herbst 2017 beginnende Studium des Interaction Designs als Zulassungskriterium zählt, ist nachfolgende Aufgabe bis zum *29.03.2017 23:59 Uhr* zu erfüllen.
 Die Hausaufgabe ist so angelegt, dass nicht nur bestehendes Wissen abgeruft werden kann, sondern unter Umständen im Selbststudium weitere Informationen beschafft werden müssen um die Aufgaben zu erfüllen. 
 Sollte es nicht möglich sein, ein Teil der Aufgaben oder deren Unterbedinungen zu erfüllen, so empfehlen wir eine Abgabe/Dokumentation der bis dahin erreichten Schritte. 
 
@@ -23,18 +23,18 @@ Bitte senden Sie alle Dateien bis zur Abgabefrist in einem ZIP-Bundle (.zip-File
 ## Teilaufgabe «Gestaltung»
 
 ### Ausgangslage
-Auf einer durch eine Agentur gestalteten Seite eines Kunden – namentlich [MoMa](http://www.moma.org/) – muss nun ein gestalterischer Vorschlag gemacht werden, wie man in die bestehende Seite eine Voranzeige auf eine Ausstellung integrieren könnte, die am 15. Mai 2017 eröffnet wird. Beim ausgestellten Künstler handelt es sich um [Ai Weiwei](https://de.wikipedia.org/wiki/Ai_Weiwei).
+Auf einer durch eine Agentur gestalteten Seite eines Kunden – namentlich [Fondation Beyeler](https://www.fondationbeyeler.ch/) – muss nun ein gestalterischer Vorschlag gemacht werden, wie man in die bestehende Seite eine Voranzeige auf eine Ausstellung integrieren könnte, die am 19. September 2017 eröffnet wird. Beim ausgestellten Künstler handelt es sich um [Jackson Pollock](https://de.wikipedia.org/wiki/Jackson_Pollock).
 
 ### Aufgabe
-Es soll für jeden Besucher der Website [moma.org](http://www.moma.org/) eine Voranzeige auf die Ausstellung erscheinen. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Es empfiehlt sich mit Screenshots der jetzigen Seite zu Arbeiten und die Voranzeige darin zu platzieren. Es gibt keine technische Einschränkung, sondern die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss nicht gezeigt werden. 
+Es soll für jeden Besucher der Website [fondationbeyeler.ch](https://www.fondationbeyeler.ch/) eine Voranzeige auf die Ausstellung erscheinen. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Es empfiehlt sich mit Screenshots der jetzigen Seite zu Arbeiten und die Voranzeige darin zu platzieren. Es gibt keine technische Einschränkung, sondern die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss nicht gezeigt werden. 
 
 ### Abgabe
 Einen grafischen Vorschlag in digitaler Form. 
 
 ### Inhalt
-* Ai Weiwei 
+* Jackson Pollock
 * Sonderausstellung
-* 15. Mai 2017 – 21. August 2017
+* 19. September 2017 – 17. Dezember 2017
 * Visuelle Elemente (wie Bilder) dürfen verwendet werden
 
 ### Bewertung in der Teilaufgabe «Gestaltung»
