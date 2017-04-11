@@ -26,10 +26,10 @@ Bitte senden Sie alle Dateien bis zur Abgabefrist in einem ZIP-Bundle (.zip-File
 ## Teilaufgabe «Gestaltung»
 
 ### Ausgangslage
-Auf einer durch eine Agentur gestalteten Seite eines Kunden – namentlich [Fondation Beyeler](https://www.fondationbeyeler.ch/) – muss nun ein gestalterischer Vorschlag gemacht werden, wie man in die bestehende Seite eine Voranzeige auf eine Ausstellung integrieren könnte, die am 19. September 2017 eröffnet wird. Beim ausgestellten Künstler handelt es sich um [Jackson Pollock](https://de.wikipedia.org/wiki/Jackson_Pollock).
+Auf einer durch eine Agentur gestalteten Seite eines Kunden – exemplarisch gewählt, namentlich [Fondation Beyeler](https://www.fondationbeyeler.ch/) – muss nun ein gestalterischer Vorschlag gemacht werden, wie man in die bestehende Seite eine Voranzeige auf eine Ausstellung integrieren könnte, die am 19. September 2017 eröffnet wird. Beim ausgestellten Künstler handelt es sich um [Jackson Pollock](https://de.wikipedia.org/wiki/Jackson_Pollock).
 
 ### Aufgabe
-Es soll für jeden Besucher der Website [fondationbeyeler.ch](https://www.fondationbeyeler.ch/) eine Voranzeige auf die Ausstellung erscheinen. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Es empfiehlt sich mit Screenshots der jetzigen Seite zu Arbeiten und die Voranzeige darin zu platzieren. Es gibt keine technische Einschränkung, sondern die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss nicht gezeigt werden. 
+Es soll für jeden Besucher der Website [fondationbeyeler.ch](https://www.fondationbeyeler.ch/) eine Voranzeige auf die Ausstellung erscheinen. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Es empfiehlt sich, mit Screenshots der jetzigen Seite zu Arbeiten und die Voranzeige darin zu platzieren. Es gibt keine technische Einschränkung, die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss nicht gezeigt werden. 
 
 ### Abgabe
 Einen grafischen Vorschlag in digitaler Form. 
@@ -61,15 +61,15 @@ Einen grafischen Vorschlag in digitaler Form.
 ## Teilaufgabe «Selbstständige Erarbeitung & Interaktion»
 
 ### Grundsatz
-Diese Teilaufgabe beinhaltet eine spezifische Aufgabe, die ein Wissen erfordert, welches nicht als Voraussetzung gegeben sein kann. Somit muss eigene Recherche getätigt werden und mit externen Quellen (Internet) wird Wissen erarbeitet um die Aufgabenstellung zu verstehen und die Aufgabe anschliessend umzusetzen.
+Diese Teilaufgabe beinhaltet eine spezifische Aufgabe, die Wissen erfordert, welches nicht als Voraussetzung gegeben sein kann. Somit muss eigene Recherche getätigt werden und mit externen Quellen (Internet) wird Wissen erarbeitet um die Aufgabenstellung zu verstehen und die Aufgabe anschliessend umzusetzen.
 
 ### Hintergrund
 Seit September 2016 gibt es OpenType Font Variations. Dies ist eine Erweiterung von OpenType-Schriften um die Fähigkeit, einen Font gemäss Wunsch des Schriftanwenders zu individualisieren. Der Schriftdesigner gibt also mögliche «Werteachsen» einer Schrift vor (Beispiel: Schriftstärke light bis black) und der Anwender kann dann beinahe Stufenlos sagen, welche Variante (Beispiel: Schriftstärke zwischen light regular) nun zur Anwendung kommen soll.
 
 ### Aufgabe
 Machen Sie sich mit der Thematik von OpenType und insbesondere OpenType Font Variations bekannt. 
-Ihre Aufgabe ist es nun ein User-Interface vorzuschlagen, welches die Schriftwahl gemäss dem Inhalt in [FontVariations.pdf](https://github.com/logrinto/IAD2017/blob/newRevision/FontVariations.pdf) ermöglicht. 
-Es muss ein Interface-Element vorgeschlagen werden, welches alle Optionen einfach und schnell zugänglich einstellen lässt. Dabei müssen nur die Werte des PDFs eingestellt werden können. Allfällige andere Optionen einer Schrift/Schriftwahl, die Sie aus besehenden Programmen kenne, müssen nicht auf diesem User-Interface vorgeschlagen werden. 
+Ihre Aufgabe ist es nun, ein User-Interface vorzuschlagen, welches die Schriftwahl gemäss dem Inhalt in [FontVariations.pdf](https://github.com/logrinto/IAD2017/blob/newRevision/FontVariations.pdf) ermöglicht. 
+Es muss ein Interface-Element vorgeschlagen werden, welches alle Optionen einfach und schnell zugänglich einstellen lässt. Dabei müssen nur die Werte des PDFs eingestellt werden können. Allfällige andere Optionen einer Schrift/Schriftwahl, die Sie aus besehenden Programmen kennen, müssen nicht auf diesem User-Interface vorgeschlagen werden. 
 Das abgebildete Beispiel zeigt ein veraltetes Userinterface zur Schriftwahl. Dieses muss gemäss den Vorgaben revidiert werden. Die Funktionen des alten Beispiels werden teils gekürzt, teils erweitert. 
 
 
