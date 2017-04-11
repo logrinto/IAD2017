@@ -7,18 +7,16 @@ Die Hausaufgabe ist so angelegt, dass nicht nur bestehendes Wissen abgeruft werd
 Sollte es nicht möglich sein, ein Teil der Aufgaben oder deren Unterbedinungen zu erfüllen, so empfehlen wir eine Abgabe/Dokumentation der bis dahin erreichten Schritte. 
 
 ### Abgabefrist
-* Gruppe A: *20.3.2017 23:59 Uhr* 
-* Gruppe B: *3.4.2017 23:59 Uhr* 
+*14.6.2017 23:59 Uhr* 
 
 ### Umfang
-Die Hausaufgabe besteht aus 3 Teilen:
+Die Hausaufgabe besteht aus 2 Teilen:
 
 * Gestaltung (50% der Gesamtnote)
-* Selbstständige Erarbeitung (25% der Gesamtnote)
-* Interaktion (25% der Gesamtnote)
+* Selbstständige Erarbeitung & Interaktion (50% der Gesamtnote)
 
 ### Benötigte Hilfsmittel
-* Computer mit der Berechtigung Programme zu installieren
+* Computer mit Grafik-Programm
 * Internetzugang
 
 ### Abgabe
@@ -28,10 +26,10 @@ Bitte senden Sie alle Dateien bis zur Abgabefrist in einem ZIP-Bundle (.zip-File
 ## Teilaufgabe «Gestaltung»
 
 ### Ausgangslage
-Auf einer durch eine Agentur gestalteten Seite eines Kunden – namentlich [Fondation Beyeler](https://www.fondationbeyeler.ch/) – muss nun ein gestalterischer Vorschlag gemacht werden, wie man in die bestehende Seite eine Voranzeige auf eine Ausstellung integrieren könnte, die am 19. September 2017 eröffnet wird. Beim ausgestellten Künstler handelt es sich um [Jackson Pollock](https://de.wikipedia.org/wiki/Jackson_Pollock).
+Auf einer durch eine Agentur gestalteten Seite eines Kunden – exemplarisch gewählt, namentlich [Fondation Beyeler](https://www.fondationbeyeler.ch/) – muss nun ein gestalterischer Vorschlag gemacht werden, wie man in die bestehende Seite eine Voranzeige auf eine Ausstellung integrieren könnte, die am 19. September 2017 eröffnet wird. Beim ausgestellten Künstler handelt es sich um [Jackson Pollock](https://de.wikipedia.org/wiki/Jackson_Pollock).
 
 ### Aufgabe
-Es soll für jeden Besucher der Website [fondationbeyeler.ch](https://www.fondationbeyeler.ch/) eine Voranzeige auf die Ausstellung erscheinen. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Es empfiehlt sich mit Screenshots der jetzigen Seite zu Arbeiten und die Voranzeige darin zu platzieren. Es gibt keine technische Einschränkung, sondern die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss nicht gezeigt werden. 
+Es soll für jeden Besucher der Website [fondationbeyeler.ch](https://www.fondationbeyeler.ch/) eine Voranzeige auf die Ausstellung erscheinen. Die Funktion, Position, Grösse und Gestaltung muss aus dem vom Kandidaten oder der Kandidatin abgegebenen Material klar ersichtlich werden. Es empfiehlt sich, mit Screenshots der jetzigen Seite zu Arbeiten und die Voranzeige darin zu platzieren. Es gibt keine technische Einschränkung, die Gestaltung und die Erscheinung soll sich an übliche Konzepte und visuelle Erfahrung im Web anlehnen. Der Vorschlag muss nur für die Desktop-Website gezeigt werden. Eine Umsetzung für mobile Geräte muss nicht gezeigt werden. 
 
 ### Abgabe
 Einen grafischen Vorschlag in digitaler Form. 
@@ -39,7 +37,7 @@ Einen grafischen Vorschlag in digitaler Form.
 ### Inhalt
 * Jackson Pollock
 * Sonderausstellung
-* 19. September 2017 – 17. Dezember 2017
+* 19\. September 2017 – 17. Dezember 2017
 * Visuelle Elemente (wie Bilder) dürfen verwendet werden
 
 ### Bewertung in der Teilaufgabe «Gestaltung»
@@ -60,57 +58,35 @@ Einen grafischen Vorschlag in digitaler Form.
 
 
 
-## Teilaufgabe «Selbstständige Erarbeitung»
+## Teilaufgabe «Selbstständige Erarbeitung & Interaktion»
 
 ### Grundsatz
-Diese Teilaufgabe beinhaltet eine spezifische Aufgabe, die ein Wissen erfordert, welches nicht als Voraussetzung gegeben sein kann. Somit muss eigene Recherche getätigt werden und mit externen Quellen (Internet) wird Wissen erarbeitet um die Aufgabenstellung zu verstehen und die Aufgabe anschliessend umzusetzen.
-Dokumentieren Sie den Prozess für die Erfüllung dieser Aufgabe. Sofern die Aufgabe nicht abgeschlossen werden kann, wird eine Bewertung aufgrund der Dokumentation erfolgen.
+Diese Teilaufgabe beinhaltet eine spezifische Aufgabe, die Wissen erfordert, welches nicht als Voraussetzung gegeben sein kann. Somit muss eigene Recherche getätigt werden und mit externen Quellen (Internet) wird Wissen erarbeitet um die Aufgabenstellung zu verstehen und die Aufgabe anschliessend umzusetzen.
 
 ### Hintergrund
-In heutigen Teams zur Webentwicklung und zum Webdesign werden oft Techniken und Tools eingesetzt, die eine kollaborative Arbeit ermöglichen. Dabei spielen unter anderem auch Versionskontrolle eine Rolle. Diese Teilaufgabe beschäftigt sich mit der Versionskontrolle der Software GIT.
+Seit September 2016 gibt es OpenType Font Variations. Dies ist eine Erweiterung von OpenType-Schriften um die Fähigkeit, einen Font gemäss Wunsch des Schriftanwenders zu individualisieren. Der Schriftdesigner gibt also mögliche «Werteachsen» einer Schrift vor (Beispiel: Schriftstärke light bis black) und der Anwender kann dann beinahe Stufenlos sagen, welche Variante (Beispiel: Schriftstärke zwischen light regular) nun zur Anwendung kommen soll.
 
 ### Aufgabe
-Legen Sie sich auf [github.com](https://github.com/) ein Account an. Klonen Sie das Repository (nachfolgend Repo genannt) von [github.com/logrinto/IAD2017](https://github.com/logrinto/IAD2017) in Ihren Account, fügen Sie in ihrem Repo im Ordner `./homework/` ein neues Textfile hinzu. Das Textfile hat die Namenskonvention: `vorname_name.txt` also zum Beispiel `kurt_mueller.txt`. Das Textfile hat den Inhalt "Hallo Welt!". Eröffnen Sie dann im ursprünglichen Repo ([github.com/logrinto/IAD2017](https://github.com/logrinto/IAD2017)) einen Pull-Request auf ihre modifizierte Version (also das um das Textfile erweiterte Repo). Sollten Sie aus Persönlichkeitsschutz ihren Namen nicht im Dateinamen wünschen, können Sie auch einen fiktiven Namen verwenden. Bitte dokumentieren Sie diesen Namen für die Bewertung.
-
-Hier einige Links um die Aufgabe zu verstehen und zu erfüllen:
-
-* [Ablauf in Englischer Sprache, jedoch am Beispiel eines anderen Projekts](https://docs.spongepowered.org/master/en/contributing/howtogit.html)
-* [Allgemeines zu Git](https://git-scm.com/book/de/v1/)
-
-### Abgabe
-Ein Pull-Request auf [github.com/logrinto/IAD2017](https://github.com/logrinto/IAD2017)
-
-### Bewertung in der Teilaufgabe «Selbstständige Erarbeitung»
-* GitHub-Account aktiviert (10%)
-* Repo in eigenen Account geklont (20%)
-* Eigene Datei eingecheckt (40%)
-* Pull-Request gestellt (30%)
+Machen Sie sich mit der Thematik von OpenType und insbesondere OpenType Font Variations bekannt. 
+Ihre Aufgabe ist es nun, ein User-Interface vorzuschlagen, welches die Schriftwahl gemäss dem Inhalt in [FontVariations.pdf](https://github.com/logrinto/IAD2017/blob/master/FontVariations.pdf) ermöglicht. 
+Es muss ein Interface-Element vorgeschlagen werden, welches alle Optionen einfach und schnell zugänglich einstellen lässt. Dabei müssen nur die Werte des PDFs eingestellt werden können. Allfällige andere Optionen einer Schrift/Schriftwahl, die Sie aus besehenden Programmen kennen, müssen nicht auf diesem User-Interface vorgeschlagen werden. 
+Das abgebildete Beispiel zeigt ein veraltetes Userinterface zur Schriftwahl. Dieses muss gemäss den Vorgaben revidiert werden. Die Funktionen des alten Beispiels werden teils gekürzt, teils erweitert. 
 
 
+#### Inhalt (30%)
+* Inhalt wurde dem Sinn entsprechend eingesetzt
+* Alle Inhaltselemente wurden genügend visualisiert (Verständlichkeit des Entwurfs)
+* Die Thematik wurde genügend durchdrungen und verstanden
 
-## Teilaufgabe «Interaktion»
+#### Grafisches Konzept (30%)
+* Das Grafische Konzept ist schlüssig und durchgängig
+* Zweckmässigkeit gegeben
+* Lesbarkeit gegeben
+* Zusammengehörende Einheiten sind grafisch zusammen gehalten
 
-### Grundsatz
-Es soll ein Checkout-Prozess eines Web-Shops gezeigt werden. Die Einzelteile des Shops sind unter [github.com/logrinto/IAD2017/](https://github.com/logrinto/IAD2017/) in der Datei `Webshop.pdf` zu beziehen. Darin enthalten sind alle für die Abgabe benötigten Teile und Texte.  
+#### Interaktion (40%)
+* Dem Benutzer ist ersichtlich, welche OpenType-Optionen zur verfügung stehen
+* Die Bedienung erschliesst sich auch für nicht geübte User von OpenType Font Variations
+* Vertraute grafische Interface-Elemente wurden verwendet
 
-### Aufgabe
-Die zur Verfügung gestellten Teile müssen nun in fünf Schritte aufgeteilt werden:
-
-* Warenkorb-Ansicht
-* Adresseingabe
-* Bezahlung per Kreditkarte
-* Bestätigung
-* Danke
-
-Die fünf Screens müssen inhaltlich gegliedert werden und als Entwurf abgegeben werden. Es muss keine Gestaltung gemacht werden, sondern es sollen lediglich die Informationsteile des PDFs logisch zu den fünf Seiten zugewiesen werden. Diese sollen so zusammengestellt sein, dass dies einem aussenstehenden Programmierer als inhaltlicher Entwurf übergeben werden könnte. Die Informationsteile sind ungeordnet im PDF einsortiert und einzelne Informationseinheiten (Schnitte) sind mit einer Linie abgetrennt. Bitte keine weiteren Inhalte hinzufügen.
-
-### Abgabe
-Ein inhaltlicher Vorschlag in digitaler Form. 
-
-### Bewertung in der Teilaufgabe «Interaktion»
-* Warenkorb-Ansicht (20%)
-* Adresseingabe (20%)
-* Bezahlung per Kreditkarte (20%)
-* Bestätigung (25%)
-* Danke (15%)
 
