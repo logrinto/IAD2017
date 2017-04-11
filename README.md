@@ -37,7 +37,7 @@ Einen grafischen Vorschlag in digitaler Form.
 ### Inhalt
 * Jackson Pollock
 * Sonderausstellung
-* 19. September 2017 – 17. Dezember 2017
+* 19\. September 2017 – 17. Dezember 2017
 * Visuelle Elemente (wie Bilder) dürfen verwendet werden
 
 ### Bewertung in der Teilaufgabe «Gestaltung»
