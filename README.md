@@ -68,7 +68,7 @@ Seit September 2016 gibt es OpenType Font Variations. Dies ist eine Erweiterung 
 
 ### Aufgabe
 Machen Sie sich mit der Thematik von OpenType und insbesondere OpenType Font Variations bekannt. 
-Ihre Aufgabe ist es nun, ein User-Interface vorzuschlagen, welches die Schriftwahl gemäss dem Inhalt in [FontVariations.pdf](https://github.com/logrinto/IAD2017/blob/newRevision/FontVariations.pdf) ermöglicht. 
+Ihre Aufgabe ist es nun, ein User-Interface vorzuschlagen, welches die Schriftwahl gemäss dem Inhalt in [FontVariations.pdf](https://github.com/logrinto/IAD2017/blob/master/FontVariations.pdf) ermöglicht. 
 Es muss ein Interface-Element vorgeschlagen werden, welches alle Optionen einfach und schnell zugänglich einstellen lässt. Dabei müssen nur die Werte des PDFs eingestellt werden können. Allfällige andere Optionen einer Schrift/Schriftwahl, die Sie aus besehenden Programmen kennen, müssen nicht auf diesem User-Interface vorgeschlagen werden. 
 Das abgebildete Beispiel zeigt ein veraltetes Userinterface zur Schriftwahl. Dieses muss gemäss den Vorgaben revidiert werden. Die Funktionen des alten Beispiels werden teils gekürzt, teils erweitert. 
 
