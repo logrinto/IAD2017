@@ -26,7 +26,8 @@ Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden 
 * Agile Planung
 * Was kostet meine Stunde?
 
-
+## Anwesenheitspflicht
+Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
 
 ## Museeen, Ausflüge, Exkursionen
 Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail Jonas 9.8.2017).
