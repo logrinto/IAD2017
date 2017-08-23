@@ -40,6 +40,10 @@ Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 8
 16:00-16:45
 ```
 
+## Selbststudium/Hausaufgaben
+Pro Woche können bis zu 3 Stunden Selbststudium auf 4 Lektionseinheiten den Studierenden in Auftrag gegeben werden.
+
+
 ## Museeen, Ausflüge, Exkursionen
 Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail Jonas 9.8.2017).
 Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, so dass allfällige Dolmetscher sich darauf einstellen können.
