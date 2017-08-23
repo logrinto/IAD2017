@@ -29,6 +29,17 @@ Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
 
+## Stunden
+```
+08:15-9:00
+09:05-9:50
+10:05-10:50
+11:00-11:45
+14:10-14:55
+15:05-15:50
+16:00-16:45
+```
+
 ## Museeen, Ausflüge, Exkursionen
 Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail Jonas 9.8.2017).
 Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, so dass allfällige Dolmetscher sich darauf einstellen können.
