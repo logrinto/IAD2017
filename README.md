@@ -7,7 +7,7 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 
 * [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/MjI5OTA0MDE2MjU3LTE1MDM0NzQ5NjYtMWJkMzJhYjlhNw)
 
-Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könne.
+Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
 
 ## Noten
