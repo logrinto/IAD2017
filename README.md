@@ -15,17 +15,17 @@ Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017
 ## Noten
 Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster.
 
-### Kontext und Konzeption
+### Cluster «Kontext und Konzeption»
 * Technologiegeschichte der Schrift
 * Medien-/Technologiegeschichte
 * Experimentelles Erzählen
 * Community Building
-### Design und Interaktion
+### Cluster «Design und Interaktion»
 * Interaktive Grafiken
 * Interaktion mit DIY–Hardware
 * Leseführung am Bildschirm (eBook)
 * Grids & Modules – Systeme für die Gestaltung
-### Realisation und Controlling
+### Cluster «Realisation und Controlling»
 * LAB
 * Agile Planung
 * Was kostet meine Stunde?
