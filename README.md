@@ -1,3 +1,5 @@
+## Klasse
+Die Klasse besteht aus 13 Studierenden.
 
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
