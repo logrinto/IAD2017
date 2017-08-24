@@ -1,6 +1,9 @@
 ## Klasse
 Die Klasse besteht aus 13 Studierenden.
 
+## Stundenplan
+Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
+
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
 
