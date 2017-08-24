@@ -1,17 +1,16 @@
-## Klasse
-Die Klasse besteht aus 13 Studierenden.
-
-## Stundenplan
-Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
-
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
-
 
 * [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/MjI5OTA0MDE2MjU3LTE1MDM0NzQ5NjYtMWJkMzJhYjlhNw)
 
 Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
+
+## Klasse
+Die Klasse besteht aus 13 Studierenden.
+
+## Stundenplan
+Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
 
 ## Noten
 Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster.
