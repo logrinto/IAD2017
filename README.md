@@ -12,23 +12,30 @@ Die Klasse besteht aus 13 Studierenden.
 ## Stundenplan
 Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
 
+## Lernziele
+* [Agile Planung – Martin Werren](./lernziele/HS2017/agil.md)
+* [Experimentelles Erzählen – Basil Vogt](./lernziele/HS2017/expstory.md)
+* [LAB 1. Semester – Stefan Huber](https://signalwerk.github.io/IAD.LAB.DOC/ziele/)
+* [Leseführung am Bildschirm (eBook) – Laurent Gachnang](./lernziele/HS2017/readscreen.md)
+* [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
+
 ## Noten
 Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster.
 
 ### Cluster «Kontext und Konzeption»
-* Technologiegeschichte der Schrift
 * Medien-/Technologiegeschichte
 * Experimentelles Erzählen
 * Community Building
+<!-- * Technologiegeschichte der Schrift -->
 ### Cluster «Design und Interaktion»
-* Interaktive Grafiken
+<!-- * Interaktive Grafiken -->
 * Interaktion mit DIY–Hardware
 * Leseführung am Bildschirm (eBook)
 * Grids & Modules – Systeme für die Gestaltung
 ### Cluster «Realisation und Controlling»
 * LAB
 * Agile Planung
-* Was kostet meine Stunde?
+<!-- * Was kostet meine Stunde? -->
 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
@@ -45,8 +52,9 @@ Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 8
 16:00-16:45
 ```
 
-## Selbststudium/Hausaufgaben
-Pro Woche können bis zu 3 Stunden Selbststudium auf 4 Lektionseinheiten den Studierenden in Auftrag gegeben werden.
+## Selbststudium/Hausarbeiten
+Pro Woche können bis zu 3 Stunden Selbststudium – je 4 Lektionseinheiten – den Studierenden in Auftrag gegeben werden. (2 Tage Weiterbildung pro Woche = 12h Selbststudium)
+Hausarbeiten müssen pünktlich abgegeben werden. Ist dies nicht der Fall, so wird die Arbeit mit der Note 1 bewertet.
 
 
 ## Museeen, Ausflüge, Exkursionen
