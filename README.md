@@ -6,6 +6,9 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
 
+## Ort 
+Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
+
 ## Klasse
 Die Klasse besteht aus 13 Studierenden.
 
