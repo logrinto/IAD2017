@@ -7,13 +7,18 @@ Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
 
 ## Ort 
-Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
+Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
+Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
 ## Klasse
 Die Klasse besteht aus 13 Studierenden.
 
 ## Stundenplan
 Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
+
+## Gebärdensprachdolmetscher
+Wir haben jeweils zwei Gebärdensprachdolmetscher mit in der Klasse.  
+Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils auf einen DropBox-Folder bereitstellen. Dies geschieht mit Vorteil möglichst früh vor dem Unterricht. Bitte die den Zugang zur DropBox erfragen.
 
 ## Lernziele
 * [Agile Planung – Martin Werren](./lernziele/HS2017/agil.md)
