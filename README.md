@@ -43,7 +43,7 @@ Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden 
 ### Cluster «Realisation und Controlling»
 * LAB
 * Agile Planung
-<!-- * Was kostet meine Stunde? -->
+* Was kostet meine Stunde? 
 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
