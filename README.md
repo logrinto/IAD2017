@@ -70,4 +70,4 @@ Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail J
 Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, so dass allfällige Dolmetscher sich darauf einstellen können.
 
 ## NextCloud
-Die Studenten haben einen Account für eine NextCloud-Instanz (Online Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
+Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
