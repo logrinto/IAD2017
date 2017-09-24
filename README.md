@@ -10,7 +10,7 @@ Jede dozierende Person sollte folgende Dinge bei Stefan Huber beziehen.
 * Wifi-Passwort an der Schule
 * Zugang für NextCloude (online Datenspeicher)
 * Zugang zur Adressliste der Dozierenden
-* Zugang Dropbox (sihe [Gebärdensprachdolmetscher](#Gebärdensprachdolmetscher))
+* Zugang Dropbox (siehe [Gebärdensprachdolmetscher](#gebärdensprachdolmetscher))
 ## Ort 
 Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
