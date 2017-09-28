@@ -76,3 +76,6 @@ Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, s
 
 ## NextCloud
 Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
+
+## Promotionsordnung 
+Die aktuelle Promotionsordnung gibt es [hier](http://sfgz.ch/angebot/weiterbildung/hf-gestaltung-und-kunst/IAD/reglemente-1.html)
