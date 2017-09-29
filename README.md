@@ -6,11 +6,12 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
 ## Zugangsdaten
-Jede dozierende Person sollte folgende Dinge bei Stefan Huber beziehen.
+Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
 * Wifi-Passwort an der Schule
 * Zugang für NextCloude (online Datenspeicher)
-* Zugang zur Adressliste der Dozierenden
+* Zugang zur Adressliste der Dozierenden/Studenten
 * Zugang Dropbox (siehe [Gebärdensprachdolmetscher](#gebärdensprachdolmetscher))
+
 ## Ort 
 Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
