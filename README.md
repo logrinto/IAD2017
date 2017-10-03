@@ -1,7 +1,7 @@
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
 
-* [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/MjI5OTA0MDE2MjU3LTE1MDM0NzQ5NjYtMWJkMzJhYjlhNw)
+* [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/enQtMjUwNzcxNDAzMDI5LTI3OWYxYzg2YWRjZjc2OTlkM2I1ZWY5Mjk4YmRmYWQ2OWQ5MGQxMjI2YmQ5NTBjMThlMTIwZjA2ODFiN2VmZTY)
 
 Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
@@ -64,6 +64,11 @@ Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 8
 14:05-14:50
 15:05-15:50
 16:00-16:45
+```
+Diverse Dozierende haben in Absprache mit der Klasse folgende Zeiten abgemacht:
+```
+08:15-11:45 (mit 30min Pause)
+12:45-16:15 (mit 30min Pause)
 ```
 
 ## Selbststudium/Hausarbeiten
