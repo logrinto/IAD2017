@@ -12,7 +12,7 @@ Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nöti
 * Zugang zur Adressliste der Dozierenden/Studenten
 * Zugang Dropbox (siehe [Gebärdensprachdolmetscher](#gebärdensprachdolmetscher))
 
-## Ort 
+## Ort
 Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
@@ -33,9 +33,10 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 * [LAB 1. Semester – Stefan Huber](https://signalwerk.github.io/IAD.LAB.DOC/ziele/)
 * [Leseführung am Bildschirm (eBook) – Laurent Gachnang](./lernziele/HS2017/readscreen.md)
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
-### Semester 2
 * [Was kostet meine Stunde? – Urs Bernet](./lernziele/HS2017/cost.md)
+### Semester 2
 * [Unternehmensziele – Urs Bernet](./lernziele/HS2017/business-aim.md)
+* [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/FS2018/artcontext.md)
 
 ## Noten
 Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster.
@@ -53,7 +54,7 @@ Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden 
 ### Cluster «Realisation und Controlling»
 * LAB
 * Agile Planung
-* Was kostet meine Stunde? 
+* Was kostet meine Stunde?
 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
@@ -87,5 +88,5 @@ Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, s
 ## NextCloud
 Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
 
-## Promotionsordnung 
+## Promotionsordnung
 Die aktuelle Promotionsordnung gibt es [hier](http://sfgz.ch/angebot/weiterbildung/hf-gestaltung-und-kunst/IAD/reglemente-1.html)
