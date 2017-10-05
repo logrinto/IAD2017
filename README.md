@@ -27,11 +27,15 @@ Wir haben jeweils zwei Gebärdensprachdolmetscher mit in der Klasse.
 Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils auf einen DropBox-Folder bereitstellen. Dies geschieht mit Vorteil möglichst früh vor dem Unterricht. Bitte die den Zugang zur DropBox erfragen.
 
 ## Lernziele
+### Semester 1
 * [Agile Planung – Martin Werren](./lernziele/HS2017/agil.md)
 * [Experimentelles Erzählen – Basil Vogt](./lernziele/HS2017/expstory.md)
 * [LAB 1. Semester – Stefan Huber](https://signalwerk.github.io/IAD.LAB.DOC/ziele/)
 * [Leseführung am Bildschirm (eBook) – Laurent Gachnang](./lernziele/HS2017/readscreen.md)
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
+### Semester 2
+* [Was kostet meine Stunde? – Urs Bernet](./lernziele/HS2017/cost.md)
+* [Unternehmensziele – Urs Bernet](./lernziele/HS2017/business-aim.md)
 
 ## Noten
 Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster.
