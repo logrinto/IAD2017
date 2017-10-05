@@ -9,7 +9,7 @@ Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
 * Wifi-Passwort an der Schule
 * Zugang für NextCloude (online Datenspeicher)
-* Zugang zur Adressliste der Dozierenden/Studenten
+* Zugang zur [Adressliste](https://logrinto.github.io/IAD2017.students/) der Dozierenden/Studenten
 * Zugang Dropbox (siehe [Gebärdensprachdolmetscher](#gebärdensprachdolmetscher))
 
 ## Ort
@@ -17,7 +17,7 @@ Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zü
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
 ## Klasse
-Die Klasse besteht aus 13 Studierenden.
+Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io/IAD2017.students/)).
 
 ## Stundenplan
 Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
