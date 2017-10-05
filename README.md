@@ -35,7 +35,7 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
 * [Was kostet meine Stunde? – Urs Bernet](./lernziele/HS2017/cost.md)
 ### Semester 2
-* [Unternehmensziele – Urs Bernet](./lernziele/HS2017/business-aim.md)
+* [Unternehmensziele – Urs Bernet](./lernziele/FS2018/business-aim.md)
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/FS2018/artcontext.md)
 
 ## Noten
