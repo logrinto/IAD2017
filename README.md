@@ -30,7 +30,7 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 ### Semester 1
 * [Agile Planung – Martin Werren](./lernziele/HS2017/agil.md)
 * [Experimentelles Erzählen – Basil Vogt](./lernziele/HS2017/expstory.md)
-* [LAB 1. Semester – Stefan Huber](https://signalwerk.github.io/IAD.LAB.DOC/ziele/)
+* [LAB 1. Semester – Stefan Huber](./lernziele/HS2017/lab.md)
 * [Leseführung am Bildschirm (eBook) – Laurent Gachnang](./lernziele/HS2017/readscreen.md)
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
 * [Was kostet meine Stunde? – Urs Bernet](./lernziele/HS2017/cost.md)
