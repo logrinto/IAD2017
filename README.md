@@ -92,3 +92,6 @@ Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speiche
 
 ## Promotionsordnung
 Die aktuelle Promotionsordnung gibt es [hier](http://sfgz.ch/angebot/weiterbildung/hf-gestaltung-und-kunst/IAD/reglemente-1.html)
+
+## Probleme während dem Unterricht
+Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt werden, so dass sich die andere Partei auch vorbereiten kann.
