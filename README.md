@@ -43,7 +43,7 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/FS2018/artcontext.md)
 
 ## Noten
-Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster.
+Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. 
 
 ### Cluster «Kontext und Konzeption»
 * Medien-/Technologiegeschichte
@@ -59,6 +59,9 @@ Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden 
 * LAB
 * Agile Planung
 * Was kostet meine Stunde?
+
+### Note: Projektwoche
+Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
