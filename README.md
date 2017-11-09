@@ -37,6 +37,7 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
 * [Was kostet meine Stunde? – Urs Bernet](./lernziele/HS2017/cost.md)
 * [Community Building – Daniel Frei](./lernziele/HS2017/community.md)
+* [Grids & Modules – Systeme für die Gestaltung – Hanna Züllig/Brigitte Lampert](./lernziele/HS2017/gridmodule.md)
 
 ### Semester 2
 * [Unternehmensziele – Urs Bernet](./lernziele/FS2018/business-aim.md)
