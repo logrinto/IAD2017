@@ -6,8 +6,9 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 * Weitere [→ Slack-Infos](https://github.com/logrinto/IAD2017/wiki/Slack)
 
 ### Github
-Daenben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
+Daneben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
 * [github](https://github.com/logrinto/IAD2017/issues)
+
 ## Zugangsdaten
 Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
 * Wifi-Passwort an der Schule
