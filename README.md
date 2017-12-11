@@ -78,8 +78,8 @@ Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 8
 
 ## Stunden
 ```
-08:15-9:00
-09:05-9:50
+08:15-09:00
+09:05-09:50
 10:05-10:50
 10:55-11:40
 13:15–14:00
