@@ -53,7 +53,7 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/FS2018/artcontext.md)
 
 ## Noten
-Jeder Dozent muss eine Note abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. 
+Jeder Dozent muss eine Endnote seines Moduls abgeben. Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. 
 
 ### Cluster «Kontext und Konzeption»
 * Medien-/Technologiegeschichte
