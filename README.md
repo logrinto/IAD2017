@@ -52,12 +52,13 @@ Jeder Dozent muss eine Endnote seines Moduls abgeben. Die einzenen Noten aus den
 * Medien-/Technologiegeschichte
 * Experimentelles Erzählen
 * Community Building
-<!-- * Technologiegeschichte der Schrift -->
+
 ### Cluster «Design und Interaktion»
-<!-- * Interaktive Grafiken -->
-* Interaktion mit DIY–Hardware
+* Case Study – Interface 
+* Interface mit DIY–Hardware
 * Leseführung am Bildschirm (eBook)
 * Grids & Modules – Systeme für die Gestaltung
+
 ### Cluster «Realisation und Controlling»
 * LAB
 * Agile Planung
