@@ -2,8 +2,6 @@
 Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf)
 
 ## Kommunikation
-
-### Slack
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
 
 * [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/enQtMjUwNzcxNDAzMDI5LTI3OWYxYzg2YWRjZjc2OTlkM2I1ZWY5Mjk4YmRmYWQ2OWQ5MGQxMjI2YmQ5NTBjMThlMTIwZjA2ODFiN2VmZTY)
