@@ -7,11 +7,6 @@ Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](http://sfgz
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
 
 * [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/enQtMjUwNzcxNDAzMDI5LTI3OWYxYzg2YWRjZjc2OTlkM2I1ZWY5Mjk4YmRmYWQ2OWQ5MGQxMjI2YmQ5NTBjMThlMTIwZjA2ODFiN2VmZTY)
-* Weitere [→ Slack-Infos](https://github.com/logrinto/IAD2017/wiki/Slack)
-
-### Github
-Daneben gibt es noch ein Github-Repository, wo Ihr Anliegen melden könnt.
-* [github](https://github.com/logrinto/IAD2017/issues)
 
 ## Zugangsdaten
 Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
@@ -108,4 +103,4 @@ Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speiche
 Die aktuelle Promotionsordnung gibt es [hier](http://sfgz.ch/angebot/weiterbildung/hf-gestaltung-und-kunst/IAD/reglemente-1.html)
 
 ## Probleme während dem Unterricht
-Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches Gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt sein, so dass sich die andere Partei auch vorbereiten kann. Sollte in einem solchen Gespräch keine Lösung gefunden werden die befriedigend für alle Parteien ist, sollten die beiden Parteien sich an Jonas Schudel oder Stefan Huber richten.
+Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches Gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt sein, so dass sich die andere Partei auch vorbereiten kann. Sollte in einem solchen Gespräch keine Lösung gefunden werden die befriedigend für alle Parteien ist, sollten die beiden Parteien sich an Jonas Schudel oder Stefan Huber richten. Daneben gibt es noch ein [Github-Repository[(https://github.com/logrinto/IAD2017/issues), wo Ihr Anliegen melden könnt.
