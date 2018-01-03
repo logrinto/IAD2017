@@ -15,7 +15,7 @@ Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nöti
 
 ## Ort
 Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
-Bitte den Schlüssel für das Zimmer im Sekretariat (Mo-Fr, **nicht SA!**) bei Yvonne Koppitsch holen; yvonne.koppitsch@sfgz.ch, +41 44 446 97 73
+Bitte den Schlüssel für das Zimmer im Sekretariat (Mo-Fr, **nicht SA!**) bei Yvonne Koppitsch holen; yvonne.koppitsch@sfgz.ch, +41 44 446 97 73  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
 ## Klasse
