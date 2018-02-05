@@ -6,6 +6,12 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 
 * [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/enQtMjUwNzcxNDAzMDI5LTI3OWYxYzg2YWRjZjc2OTlkM2I1ZWY5Mjk4YmRmYWQ2OWQ5MGQxMjI2YmQ5NTBjMThlMTIwZjA2ODFiN2VmZTY)
 
+## Stundenplan
+Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
+
+## Klasse
+Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io/IAD2017.students/)).
+
 ## Dozierende
 <table>
   <tbody>
@@ -37,7 +43,7 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
   </tbody>
 </table>
 
-## Zugangsdaten
+### Zugangsdaten
 Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
 * Wifi-Passwort an der Schule
 * Zugang für NextCloude (online Datenspeicher)
@@ -47,12 +53,6 @@ Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nöti
 ## Ort
 Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
-
-## Klasse
-Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io/IAD2017.students/)).
-
-## Stundenplan
-Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
 
 ## Gebärdensprachdolmetscher
 Wir haben jeweils zwei Gebärdensprachdolmetscher mit in der Klasse.  
