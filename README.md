@@ -59,41 +59,16 @@ Wir haben jeweils zwei Gebärdensprachdolmetscher mit in der Klasse.
 Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils auf einen DropBox-Folder bereitstellen. Dies geschieht mit Vorteil möglichst früh vor dem Unterricht. Bitte die den Zugang zur DropBox erfragen.
 
 ## Lernziele
-### Semester 1
-* [Agile Planung – Martin Werren](./lernziele/HS2017/agil.md)
-* [Experimentelles Erzählen – Basil Vogt](./lernziele/HS2017/expstory.md)
-* [LAB 1. Semester – Stefan Huber](./lernziele/HS2017/lab.md)
-* [Leseführung am Bildschirm (eBook) – Laurent Gachnang](./lernziele/HS2017/readscreen.md)
-* [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/HS2017/artcontext.md)
-* [Was kostet meine Stunde? – Urs Bernet](./lernziele/HS2017/cost.md)
-* [Community Building – Daniel Frei](./lernziele/HS2017/community.md)
-* [Grids & Modules – Systeme für die Gestaltung – Hanna Züllig/Brigitte Lampert](./lernziele/HS2017/gridmodule.md)
-
-### Semester 2
-* [Unternehmensziele – Urs Bernet](./lernziele/FS2018/business-aim.md)
-* [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/FS2018/artcontext.md)
+Die Lernziele werden gemäss [Lehrplan](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf) und Rücksprache mit der dozierenden Person festgehalten. Details [hier](./lernziele/).
 
 ## Noten
-**Jeder Dozent muss eine Endnote seines Moduls an Stefan Huber abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. 
+**Jeder Dozent muss eine Endnote seines Moduls an Stefan Huber abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. Die Projektwoche wird im Zeugnis separat ausgewiesen. Details [hier](./lernziele/).
 
-### Cluster «Kontext und Konzeption»
-* Medien-/Technologiegeschichte
-* Experimentelles Erzählen
-* Community Building
+* Cluster «Kontext und Konzeption»
+* Cluster «Design und Interaktion»
+* Cluster «Realisation und Controlling»
+* Projektwoche (1. und 2. Semester)
 
-### Cluster «Design und Interaktion»
-* Case Study – Interface 
-* Interface mit DIY–Hardware
-* Leseführung am Bildschirm (eBook)
-* Grids & Modules – Systeme für die Gestaltung
-
-### Cluster «Realisation und Controlling»
-* LAB
-* Agile Planung
-* Was kostet meine Stunde?
-
-### Note: Projektwoche
-Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
