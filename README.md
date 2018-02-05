@@ -128,7 +128,7 @@ Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, s
 Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
 
 ## Promotionsordnung
-Die aktuelle Promotionsordnung gibt es [hier](https://raw.githubusercontent.com/logrinto/IAD2017/master/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)
+Die aktuelle Promotionsordnung gibt es [hier](http://sfgz.ch/_Resources/Persistent/62b60d37f27b45cc4bff29caad6260ea57351e66/HF_IAD_Promotionsordnung_28.03.2017.pdf)
 
 ## Probleme während dem Unterricht
 Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches Gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt sein, so dass sich die andere Partei auch vorbereiten kann. Sollte in einem solchen Gespräch keine Lösung gefunden werden die befriedigend für alle Parteien ist, sollten die beiden Parteien sich an Jonas Schudel oder Stefan Huber richten. Daneben gibt es noch ein [Github-Repository[(https://github.com/logrinto/IAD2017/issues), wo Ihr Anliegen melden könnt.
