@@ -17,7 +17,7 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
     <tr>
       <td>
         <ul>
-          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa!</strong>.</li>
+          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa!</strong></li>
           <li>Lehrziele an Stefan Huber senden</li>
         </ul>
       </td>
