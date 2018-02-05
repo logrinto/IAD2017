@@ -6,6 +6,36 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 
 * [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/enQtMjUwNzcxNDAzMDI5LTI3OWYxYzg2YWRjZjc2OTlkM2I1ZWY5Mjk4YmRmYWQ2OWQ5MGQxMjI2YmQ5NTBjMThlMTIwZjA2ODFiN2VmZTY)
 
+## Dozierende
+<table>
+  <tbody>
+    <tr>
+      <th>Vorbereitung</th>
+      <th>Unterricht</th>
+      <th>Nachgang</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch abholen (Mo-Fr)</li>
+          <li>Lehrziele an Stefan Huber senden</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Eine Prüfung/Übung/Arbeit bewerten, so dass eine Note als Rückmeldung an die Studenten erfolgen kann.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Schlüssel und Anwesenheitsliste an Yvonne Koppitsch</li>
+          <li>Noten an Stefan Huber</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Zugangsdaten
 Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
 * Wifi-Passwort an der Schule
