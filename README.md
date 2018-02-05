@@ -17,7 +17,7 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
     <tr>
       <td>
         <ul>
-          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch abholen (Mo-Fr)</li>
+          <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa!</strong>.</li>
           <li>Lehrziele an Stefan Huber senden</li>
         </ul>
       </td>
@@ -46,7 +46,6 @@ Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nöti
 
 ## Ort
 Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
-Bitte den Schlüssel für das Zimmer im Sekretariat (Mo-Fr, **nicht SA!**) bei Yvonne Koppitsch holen; yvonne.koppitsch@sfgz.ch, +41 44 446 97 73  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
 ## Klasse
@@ -75,7 +74,7 @@ Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils 
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./lernziele/FS2018/artcontext.md)
 
 ## Noten
-**Jeder Dozent muss eine Endnote seines Moduls abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. 
+**Jeder Dozent muss eine Endnote seines Moduls an Stefan Huber abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. 
 
 ### Cluster «Kontext und Konzeption»
 * Medien-/Technologiegeschichte
