@@ -51,7 +51,7 @@ Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nöti
 * Zugang Dropbox (siehe [Gebärdensprachdolmetscher](#gebärdensprachdolmetscher))
 
 ## Ort
-Zimmer 510 – Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
+Zimmer 413 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
 ## Gebärdensprachdolmetscher
