@@ -59,7 +59,7 @@ Wir haben jeweils zwei Gebärdensprachdolmetscher mit in der Klasse.
 Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils auf einen DropBox-Folder bereitstellen. Dies geschieht mit Vorteil möglichst früh vor dem Unterricht. Bitte die den Zugang zur DropBox erfragen.
 
 ## Lernziele
-Die Lernziele werden gemäss [Lehrplan](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf) und Rücksprache mit der dozierenden Person festgehalten. Details [hier](./lernziele/README.md).
+Details [hier](./lernziele/README.md). Die Lernziele werden gemäss [Lehrplan](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf) und Rücksprache mit der dozierenden Person festgehalten. 
 
 ## Noten
 **Jeder Dozent muss eine Endnote seines Moduls an Stefan Huber abgeben.** Die einzenen Noten aus den Fächern werden in drei «Cluster» gegliedert. Die Schüler erhalten dann, basierend auf den Anzahl Lektionen der einzelnen Module, eine Durchschnitts-Note für die drei Cluster. Die Projektwoche wird im Zeugnis separat ausgewiesen. Details [hier](./lernziele/README.md).
@@ -93,7 +93,6 @@ Diverse Dozierende haben in Absprache mit der Klasse folgende Zeiten abgemacht:
 ## Selbststudium/Hausarbeiten
 Pro Woche können bis zu 3 Stunden Selbststudium – je 4 Lektionseinheiten – den Studierenden in Auftrag gegeben werden. (2 Tage Weiterbildung pro Woche = 12h Selbststudium)
 Hausarbeiten müssen pünktlich abgegeben werden. Ist dies nicht der Fall, so wird die Arbeit mit der Note 1 bewertet.
-
 
 ## Museeen, Ausflüge, Exkursionen
 Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail Jonas 9.8.2017).
