@@ -55,8 +55,8 @@ Zimmer 413 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zür
 Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
 
 ## Gebärdensprachdolmetscher
-Wir haben jeweils zwei Gebärdensprachdolmetscher mit in der Klasse.  
-Wir sollten für die Dolmetscher zur Vorbereitung die Unterlagen/Slides jeweils auf einen DropBox-Folder bereitstellen. Dies geschieht mit Vorteil möglichst früh vor dem Unterricht. Bitte die den Zugang zur DropBox erfragen.
+Es sind jeweils zwei Gebärdensprachdolmetscher für die Übersetzung in der Klasse.  
+Für die Dolmetscher sollte zur Vorbereitung die Unterlagen/Slides jeweils auf einen DropBox-Folder bereitgestellt werden. Dies geschieht mit Vorteil möglichst früh vor dem Unterricht. Bitte die den Zugang zur DropBox erfragen. Die Studenten nehmen Sich eine digitale Kopie von da.
 
 ## Lernziele
 Details [hier](./lernziele/README.md). Die Lernziele werden gemäss [Lehrplan](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf) und Rücksprache mit der dozierenden Person festgehalten. 
@@ -68,7 +68,6 @@ Details [hier](./lernziele/README.md). Die Lernziele werden gemäss [Lehrplan](h
 * Cluster «Design und Interaktion»
 * Cluster «Realisation und Controlling»
 * Projektwoche (1. und 2. Semester)
-
 
 ## Anwesenheitspflicht
 Die Studenten müssen im Unterricht anwesend sein. Es muss pro Fächer-Cluster 80% Anwesenheit erreicht werden um ins nächste Semester aufgenommen zu werden.
