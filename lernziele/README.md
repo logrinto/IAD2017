@@ -30,13 +30,21 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 #### Cluster «Kontext und Konzeption»
 
 * [Medien-/Technologiegeschichte – Ulrike Felsing](./2018FS/artcontext.md)
-  #### Cluster «Design und Interaktion»
-  #### Cluster «Realisation und Controlling»
-  #### Note: Projektwoche
+
+#### Cluster «Design und Interaktion»
+
+#### Cluster «Realisation und Controlling»
+
+#### Note: Projektwoche
 
 ### Semester 3
+
+#### Cluster «Kontext und Konzeption»
+
+* [Internet – Rechten und Pflichten](./2018HS/law.md)
+
+#### Cluster «Design und Interaktion»
 
 #### Cluster «Realisation und Controlling»
 
 * [Unternehmensziele – Urs Bernet](./2018HS/business-aim.md)
-* [Internet – Rechten und Pflichten](./2018HS/law.md)
