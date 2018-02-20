@@ -10,8 +10,8 @@
 
 #### Cluster «Design und Interaktion»
 
-* Case Study – Interface
-* Interface mit DIY–Hardware
+* [Case Study – Interface](./all/hardware.md)
+* [Interface mit DIY–Hardware](./all/casestudy.md)
 * [Leseführung am Bildschirm (eBook) · Laurent Gachnang](./2017HS/readscreen.md)
 * [Grids & Modules – Systeme für die Gestaltung · Hanna Züllig/Brigitte Lampert](./2017HS/gridmodule.md)
 
