@@ -10,8 +10,8 @@
 
 #### Cluster «Design und Interaktion»
 
-* [Case Study – Interface](./all/hardware.md)
-* [Interface mit DIY–Hardware](./all/casestudy.md)
+* [Case Study – Interface](./all/casestudy.md)
+* [Interface mit DIY–Hardware](./all/hardware.md)
 * [Leseführung am Bildschirm (eBook) · Laurent Gachnang](./2017HS/readscreen.md)
 * [Grids & Modules – Systeme für die Gestaltung · Hanna Züllig/Brigitte Lampert](./2017HS/gridmodule.md)
 
@@ -40,8 +40,8 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 #### Cluster «Design und Interaktion»
 
-* Case Study – Interface
-* Interaktion mit DIY–Hardware
+* [Case Study – Interface](./all/casestudy.md)
+* [Interaktion mit DIY–Hardware](./all/hardware.md)
 * [Alternate & Design · Anneka Beatty](./2018FS/altdesign.md)
 * [Corporate Design (UX) · Christof Täschler](./2018FS/cd-starter.md)
 
