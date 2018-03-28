@@ -31,7 +31,7 @@ Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io
       <td>
         <ul>
           <li>Anwesenheitsliste ausfüllen.</li>
-          <li>Eine Prüfung/Übung/Arbeit bewerten, so dass eine Note als Rückmeldung an die Studenten erfolgen kann.</li>
+          <li>Mindestens eine Prüfung/Übung/Arbeit bewerten, so dass eine Note (0.1 Schritte) als Rückmeldung an die Studenten erfolgen kann.</li>
           <li>Slides/Unterlagen möglichst ein paar Tage vor Unterricht auf die Dropbox der Dolmetscher/Studenten legen.</li>
         </ul>
       </td>
