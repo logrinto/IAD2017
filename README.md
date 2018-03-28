@@ -38,7 +38,7 @@ Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io
       <td>
         <ul>
           <li>Schlüssel und Anwesenheitsliste an Yvonne Koppitsch</li>
-          <li>Noten an Stefan Huber</li>
+          <li>Noten (0.1 Schritte) an Stefan Huber</li>
         </ul>
       </td>
     </tr>
