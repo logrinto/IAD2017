@@ -25,19 +25,20 @@ Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io
         <ul>
           <li>Schlüssel & Anwesenheitsliste bei Yvonne Koppitsch (yvonne.koppitsch@sfgz.ch, +41 44 446 97 73) abholen. Mo-Fr, <strong>nicht Sa!</strong></li>
           <li>Lehrziele an Stefan Huber senden</li>
+          <li>CV mit Tätigkeiten/Anstellungen, Abschlüsse mit Diplom, Arbeitszeugnisse/Arbeitsbestätigungen an Jonas Schudel (jonas.schudel@sfgz.ch)</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Anwesenheitsliste ausfüllen.</li>
-          <li>Eine Prüfung/Übung/Arbeit bewerten, so dass eine Note als Rückmeldung an die Studenten erfolgen kann.</li>
+          <li>Mindestens eine Prüfung/Übung/Arbeit bewerten, so dass eine Note (0.1 Schritte) als Rückmeldung an die Studenten erfolgen kann.</li>
           <li>Slides/Unterlagen möglichst ein paar Tage vor Unterricht auf die Dropbox der Dolmetscher/Studenten legen.</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Schlüssel und Anwesenheitsliste an Yvonne Koppitsch</li>
-          <li>Noten an Stefan Huber</li>
+          <li>Noten (0.1 Schritte) an Stefan Huber</li>
         </ul>
       </td>
     </tr>

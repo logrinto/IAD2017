@@ -1,4 +1,5 @@
 ## Lernziele
+Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://github.com/logrinto/IAD/wiki/Taxonomiestufen).
 
 ### Semester 1
 
