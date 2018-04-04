@@ -3,8 +3,9 @@
 Die Studierenden lernen...
 
 * kennen die Rechte/Pflichten beim Betreiben einer Website
+* kennen die Rechte/Pflichten beim Betreiben eines E-Mail-Newsletters
 * kennen die Folgen beim Verstoss gegen Rechte/Pflichten beim Betreiben einer Website (take down notice – Rechtsgrundlage/Freiwilligkeit)
-* kennen mögliche Folgen von einem Verstoss gegen geltendes Recht, welcher durch Eigenverschulden oder externem Benutzer verursacht wurde. K2
+* kennen mögliche Folgen von einem Verstoss gegen geltendes Recht, welcher durch Eigenverschulden oder externem Benutzer verursacht wurde. (Postings auf Website) K2
 * kennen die Rechte/Pflichten des Urheberrechts in der Schweiz. K2
 * können die Situation bezüglich Rechte/Pflichten des Urheberrechts in der Schweiz im Kontext zu Europa/International einschätzen. K2
 * kennen verschiedene Lizenzmodelle und können selbständig entscheiden, welche Lizenz für Ihre Arbeit adäquat ist. K2
