@@ -33,11 +33,11 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 * [Medien-/Technologiegeschichte · Ulrike Felsing](./2018FS/artcontext.md)
 * [YouTube – Inhalte & Kanäle · Nadia Holdener](./2018FS/youtube.md)
 * Bildschirme und Fonts
-* Journalismus – Data Literacy
+* Journalismus – Data Literacy (keine Noten nur besucht)
 * Tag der Schrift
 * Technologiegeschichte der Schrift
 * Vom Platzhalter zur Geschichte
-* Zukunft – Umgang mit der Ungewissheit
+* Projektplanung
 
 #### Cluster «Design und Interaktion»
 
