@@ -1,6 +1,6 @@
 ## Zukunft – Umgang mit der Ungewissheit
 
-### Grundsatz
+### Grundsatz
 «Zukunft – Umgang mi der Ungewissheit» befasst sich mit den möglichen Entwicklungen zukünftiger – digitaler – Medien und der Vorbereitung darauf in bezug auf
 * Erfassung möglicher Zukünfte von digitalen Medien durch Identifikation von Frühindikatoren
 * Technologiefolgenabschätzung dieser Umwälzung im Bereich Medienerstellung, -vermittlung, - rezeption
