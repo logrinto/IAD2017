@@ -1,4 +1,4 @@
-## Internet – Rechten und Pflichten
+## Newsletter
 
 Die Studierenden lernen...
 * kennen die einzelnen Medien/Kanäle und können deren Stärken gezielt einsetzen. K3 (Warum E-Mail-Newsletter?)
