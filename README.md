@@ -1,5 +1,5 @@
 ## Inhalt
-Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf)
+Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](https://cdn.rawgit.com/logrinto/IAD2017/787529a3/docs/Informatiionsunterlagen_HF_IAD.pdf)
 
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
