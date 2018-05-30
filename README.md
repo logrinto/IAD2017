@@ -54,7 +54,7 @@ Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nöti
 
 ## Ort
 Zimmer 413 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich  
-Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.-/Tag benutzt werden.
+Parkplätze für Lehrpersonen können mit einer Parkkarte (Bezug im Sekretariat) für 20.–/Tag benutzt werden.
 
 ## Gebärdensprachdolmetscher
 Es sind jeweils zwei Gebärdensprachdolmetscher für die Übersetzung in der Klasse.  
