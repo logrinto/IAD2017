@@ -36,7 +36,7 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 * [Journalismus – Data Literacy (keine Noten nur besucht)](./2018FS/dataLiteracy.md)
 * Tag der Schrift
 * Technologiegeschichte der Schrift
-* Vom Platzhalter zur Geschichte
+* [Vom Platzhalter zur Geschichte](./2018FS/storytelling.md)
 * Projektplanung
 
 #### Cluster «Design und Interaktion»
@@ -49,7 +49,7 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 #### Cluster «Realisation und Controlling»
 
 * [Verlegen und Verlage (eBook)](./2018FS/publisher.md)
-* Fontdesign
+* [Fontdesign](./2018FS/fontdesign.md)
 * [LAB 2. Semester · Stefan Huber](./2018FS/lab.md)
 
 #### Note: Projektwoche
