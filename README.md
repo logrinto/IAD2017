@@ -1,5 +1,5 @@
 ## Inhalt
-Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](http://sfgz.ch/_Resources/Persistent/e41ecc75e7613d8612724614b609d97ea5491932/Informatiionsunterlagen_HF_IAD.pdf)
+Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](https://cdn.rawgit.com/logrinto/IAD2017/787529a3/docs/Informatiionsunterlagen_HF_IAD.pdf)
 
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
@@ -103,7 +103,7 @@ Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, s
 Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
 
 ## Promotionsordnung
-Die aktuelle Promotionsordnung gibt es [hier](http://sfgz.ch/_Resources/Persistent/62b60d37f27b45cc4bff29caad6260ea57351e66/HF_IAD_Promotionsordnung_28.03.2017.pdf)
+Die aktuelle Promotionsordnung gibt es [hier](https://cdn.rawgit.com/logrinto/IAD2017/dd035580/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)
 
 ## Probleme während dem Unterricht
 Sollte es zwischen Lehrpersonen und Studentenschaft zu Problemen kommen, so sollte zuerst eine Kommunikation zwischen den beiden Parteien gesucht werden. Dabei soll klar und offen kommuniziert werden, wo es für die eine oder andere Partei nicht stimmt. Ein solches Gespräch sollte möglichst früh gesucht werden und wenn nötig/möglich auch angekündigt sein, so dass sich die andere Partei auch vorbereiten kann. Sollte in einem solchen Gespräch keine Lösung gefunden werden die befriedigend für alle Parteien ist, sollten die beiden Parteien sich an Jonas Schudel oder Stefan Huber richten. Daneben gibt es noch ein [Github-Repository[(https://github.com/logrinto/IAD2017/issues), wo Ihr Anliegen melden könnt.

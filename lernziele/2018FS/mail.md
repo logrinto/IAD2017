@@ -1,4 +1,4 @@
-## Internet – Rechten und Pflichten
+## Newsletter
 
 Die Studierenden ...
 
