@@ -48,7 +48,6 @@ Die Klasse besteht aus 13 Studierenden ([Adressliste](https://logrinto.github.io
 ### Zugangsdaten
 Jede dozierende Person kann folgende Dinge bei Stefan Huber beziehen (wenn nötig).
 * Wifi-Passwort an der Schule
-* Zugang für NextCloude (online Datenspeicher)
 * Zugang zur [Adressliste](https://logrinto.github.io/IAD2017.students/) der Dozierenden/Studenten
 * Zugang Dropbox (siehe [Gebärdensprachdolmetscher](#gebärdensprachdolmetscher))
 
