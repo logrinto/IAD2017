@@ -99,9 +99,6 @@ Hausarbeiten müssen pünktlich abgegeben werden. Ist dies nicht der Fall, so wi
 Kosten für Transport und Eintritt wird nicht von der Schule übernommen (Mail Jonas 9.8.2017).
 Wenn das Schulhaus verlassen wird, so muss dies frühzeitig angemeldet werden, so dass allfällige Dolmetscher sich darauf einstellen können.
 
-## NextCloud
-Die Studierenden haben einen Account für eine NextCloud-Instanz (Online-Speicher) der Schule. Die Dozierenden können bei Bedarf auch Zugrif auf einen Dozenten-Account haben. Bitte Anfrage an Stefan Huber
-
 ## Promotionsordnung
 Die aktuelle Promotionsordnung gibt es [hier](https://cdn.rawgit.com/logrinto/IAD2017/dd035580/docs/HF_IAD_Promotionsordnung_28.03.2017.pdf)
 
