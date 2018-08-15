@@ -1,30 +1,32 @@
 ## Lernziele
 Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://github.com/logrinto/IAD/wiki/Taxonomiestufen).
 
-### Semester 1
+
+### Semester 3
 
 #### Cluster «Kontext und Konzeption»
 
-* [Medien-/Technologiegeschichte · Ulrike Felsing](./2017HS/artcontext.md)
-* [Experimentelles Erzählen · Basil Vogt](./2017HS/expstory.md)
-* [Community Building · Daniel Frei](./2017HS/community.md)
+* [Internet · Rechten und Pflichten](./2018HS/law.md)
+* Interaktion und Journalismus
+* OpenSource und Communities
+* Unternehmensziele
+* Zukunft – Umgang mit der Ungewissheit
 
 #### Cluster «Design und Interaktion»
-
-* [Case Study – Interface](./all/casestudy.md)
-* [Interface mit DIY–Hardware](./all/hardware.md)
-* [Leseführung am Bildschirm (eBook) · Laurent Gachnang](./2017HS/readscreen.md)
-* [Grids & Modules – Systeme für die Gestaltung · Hanna Züllig/Brigitte Lampert](./2017HS/gridmodule.md)
+* [Motion Design](./2018HS/MotionDesign.md)
+* Editorial Design
+* Infografik
+* Internet of Things
+* Processing – Code & Design
+* Userinterfaces
 
 #### Cluster «Realisation und Controlling»
+* Digital Fabrication
+* Digitale/Analoge Produktionsmittel
+* [Unternehmensziele · Urs Bernet](./2018HS/business-aim.md)
+* [LAB 3. Semester · Stefan Huber](./2018HS/lab.md)
+* Typografische Systeme
 
-* [LAB 1. Semester · Stefan Huber](./2017HS/lab.md)
-* [Agile Planung · Martin Werren](./2017HS/agil.md)
-* [Was kostet meine Stunde? · Urs Bernet](./2017HS/cost.md)
-
-#### Note: Projektwoche
-
-Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 ### Semester 2
 
@@ -56,14 +58,28 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
-### Semester 3
+
+### Semester 1
 
 #### Cluster «Kontext und Konzeption»
 
-* [Internet · Rechten und Pflichten](./2018HS/law.md)
+* [Medien-/Technologiegeschichte · Ulrike Felsing](./2017HS/artcontext.md)
+* [Experimentelles Erzählen · Basil Vogt](./2017HS/expstory.md)
+* [Community Building · Daniel Frei](./2017HS/community.md)
 
 #### Cluster «Design und Interaktion»
 
+* [Case Study – Interface](./all/casestudy.md)
+* [Interface mit DIY–Hardware](./all/hardware.md)
+* [Leseführung am Bildschirm (eBook) · Laurent Gachnang](./2017HS/readscreen.md)
+* [Grids & Modules – Systeme für die Gestaltung · Hanna Züllig/Brigitte Lampert](./2017HS/gridmodule.md)
+
 #### Cluster «Realisation und Controlling»
 
-* [Unternehmensziele · Urs Bernet](./2018HS/business-aim.md)
+* [LAB 1. Semester · Stefan Huber](./2017HS/lab.md)
+* [Agile Planung · Martin Werren](./2017HS/agil.md)
+* [Was kostet meine Stunde? · Urs Bernet](./2017HS/cost.md)
+
+#### Note: Projektwoche
+
+Die Projektwoche wird im Zeugnis separat ausgewiesen.
