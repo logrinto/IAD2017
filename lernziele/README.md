@@ -52,6 +52,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 
 * [Verlegen und Verlage (eBook)](./2018FS/publisher.md)
 * [Fontdesign](./2018FS/fontdesign.md)
+* Color Management
 * [LAB 2. Semester · Stefan Huber](./2018FS/lab.md)
 
 #### Note: Projektwoche
