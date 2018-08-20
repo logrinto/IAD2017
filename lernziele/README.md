@@ -47,6 +47,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 * [Interaktion mit DIY–Hardware](./all/hardware.md)
 * [Alternate & Design · Anneka Beatty](./2018FS/altdesign.md)
 * [Corporate Design (UX) · Christof Täschler](./2018FS/cd-starter.md)
+* Maps und Daten
 
 #### Cluster «Realisation und Controlling»
 
