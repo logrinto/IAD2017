@@ -47,11 +47,13 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 * [Interaktion mit DIY–Hardware](./all/hardware.md)
 * [Alternate & Design · Anneka Beatty](./2018FS/altdesign.md)
 * [Corporate Design (UX) · Christof Täschler](./2018FS/cd-starter.md)
+* Maps und Daten
 
 #### Cluster «Realisation und Controlling»
 
 * [Verlegen und Verlage (eBook)](./2018FS/publisher.md)
 * [Fontdesign](./2018FS/fontdesign.md)
+* Color Management
 * [LAB 2. Semester · Stefan Huber](./2018FS/lab.md)
 
 #### Note: Projektwoche
