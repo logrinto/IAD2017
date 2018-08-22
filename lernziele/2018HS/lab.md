@@ -12,7 +12,12 @@ Die Studierenden erhalten die Möglichkeit im Lab sich auszutauschen und bei der
 
 ### Lernziel
 
-* ...
+* verstehen wie technologische Standards im Internet geschafft wurden und aktuell entwickelt werden. K2
+* verstehen wie mittels Command Line Interface (CLI) grundlegende Befehle ausgeführt werden
+* verstehen die Grundlagen von JavaScript und die Anwendung in Websites.
+* kennen die Grundlagen von CSS-Transitions und -Animations und können diese Anwenden.
+* verstehen es, statistische Daten von Webseiten zu analysieren, diese zu interpretieren sowie Handlungen für die eigene Arbeit daraus abzuleiten. K5
+* Können Abschätzen, welche Rechen- und Übertragungsgeschwindigkeiten ein Web-Projekt benötigt.
 
 ## Sonstiges
 
