@@ -7,7 +7,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 #### Cluster «Kontext und Konzeption»
 
 * [Internet · Rechten und Pflichten](./2018HS/law.md)
-* Interaktion und Journalismus
+* [Interaktion und Journalismus](./2018HS/InteractionJournalism.md)
 * OpenSource und Communities
 * Unternehmensziele
 * Zukunft – Umgang mit der Ungewissheit
