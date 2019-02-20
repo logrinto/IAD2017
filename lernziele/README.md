@@ -19,6 +19,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 * Internet of Things
 * Processing – Code & Design
 * Userinterfaces
+* Case Study – Interface
 
 #### Cluster «Realisation und Controlling»
 * Digital Fabrication
