@@ -9,7 +9,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 * [Internet · Rechten und Pflichten](./2018HS/law.md)
 * [Interaktion und Journalismus](./2018HS/InteractionJournalism.md)
 * OpenSource und Communities
-* Unternehmensziele
+* [Unternehmensziele · Urs Bernet](./2018HS/business-aim.md)
 * Zukunft – Umgang mit der Ungewissheit
 
 #### Cluster «Design und Interaktion»
@@ -23,7 +23,6 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 #### Cluster «Realisation und Controlling»
 * Digital Fabrication
 * Digitale/Analoge Produktionsmittel
-* [Unternehmensziele · Urs Bernet](./2018HS/business-aim.md)
 * [LAB 3. Semester · Stefan Huber](./2018HS/lab.md)
 * Typografische Systeme
 
