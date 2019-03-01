@@ -2,7 +2,37 @@
 Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://github.com/logrinto/IAD/wiki/Taxonomiestufen).
 
 
-### Semester 3
+
+
+### Semester 4
+
+#### Cluster «Kontext und Konzeption»
+* Politik und Gesellschaft
+* Design und Accessibility
+* Ressourcenplanung
+* [Human-centered design](./2019FS/HumanCentered.md)
+* Marketing Grundlagen
+* [Onlinewerbung & Analyse](./2019FS/ads.md)
+* E-Mail Marketing
+* Tag der Schrift
+
+#### Cluster «Design und Interaktion»
+* Geografie und Visualisierung
+* Case Study – Interface
+* Responsive Design
+* 3D im Browser
+
+#### Cluster «Realisation und Controlling»
+* Parser & Regular Expressions
+* Typografische Systeme
+* [LAB 4. Semester](./2019FS/lab.md)
+
+
+
+
+
+<details>
+<summary><h3>Semester 3</h3></summary>
 
 #### Cluster «Kontext und Konzeption»
 
@@ -24,11 +54,14 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 #### Cluster «Realisation und Controlling»
 * Digital Fabrication
 * Digitale/Analoge Produktionsmittel
-* [LAB 3. Semester · Stefan Huber](./2018HS/lab.md)
+* [LAB 3. Semester](./2018HS/lab.md)
 * Typografische Systeme
 
+</details>
 
-### Semester 2
+
+<details>
+<summary><h3>Semester 2</h3></summary>
 
 #### Cluster «Kontext und Konzeption»
 
@@ -54,14 +87,17 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 * [Verlegen und Verlage (eBook)](./2018FS/publisher.md)
 * [Fontdesign](./2018FS/fontdesign.md)
 * Color Management
-* [LAB 2. Semester · Stefan Huber](./2018FS/lab.md)
+* [LAB 2. Semester](./2018FS/lab.md)
 
 #### Note: Projektwoche
 
 Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
+</details>
 
-### Semester 1
+
+<details>
+<summary><h3>Semester 1</h3></summary>
 
 #### Cluster «Kontext und Konzeption»
 
@@ -78,10 +114,12 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 #### Cluster «Realisation und Controlling»
 
-* [LAB 1. Semester · Stefan Huber](./2017HS/lab.md)
+* [LAB 1. Semester](./2017HS/lab.md)
 * [Agile Planung · Martin Werren](./2017HS/agil.md)
 * [Was kostet meine Stunde? · Urs Bernet](./2017HS/cost.md)
 
 #### Note: Projektwoche
 
 Die Projektwoche wird im Zeugnis separat ausgewiesen.
+
+</details>
