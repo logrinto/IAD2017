@@ -32,7 +32,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 
 
 <details>
-<summary><h3>Semester 3</h3></summary>
+<summary>**Semester 3**</summary>
 
 #### Cluster «Kontext und Konzeption»
 
@@ -61,7 +61,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 
 
 <details>
-<summary><h3>Semester 2</h3></summary>
+<summary>**Semester 2**</summary>
 
 #### Cluster «Kontext und Konzeption»
 
@@ -97,7 +97,7 @@ Die Projektwoche wird im Zeugnis separat ausgewiesen.
 
 
 <details>
-<summary><h3>Semester 1</h3></summary>
+<summary>**Semester 1**</summary>
 
 #### Cluster «Kontext und Konzeption»
 
