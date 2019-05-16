@@ -11,7 +11,7 @@ Für K1 bis K5 Klassifikation nach Bloom siehe [→ Taxonomiestufen](https://git
 * Design und Accessibility
 * Ressourcenplanung
 * [Human-centered design](./2019FS/HumanCentered.md)
-* Marketing Grundlagen
+* [Marketing Grundlagen](./2019FS/marketing.md)
 * [Onlinewerbung & Analyse](./2019FS/ads.md)
 * E-Mail Marketing
 * Tag der Schrift
