@@ -4,7 +4,7 @@ Die Dokumentation zur Ausbildung inklusive Inhalt findest du [hier.](https://cdn
 ## Kommunikation
 Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaushen können:
 
-* [Chat-Anmeldung (Slack)](https://goo.gl/rgh9Jb)
+* [Chat-Anmeldung (Slack)](https://join.slack.com/t/logrinto/shared_invite/enQtMjUwNzcxNDAzMDI5LTY3MmM2N2RhZjhlZjcyNzk0ODUzMDc2MDdlNzJmMzZhYzdhYjJmMTM0MmQyN2UyZWI3ZmNkMGNiODQ5Y2VhMmM)
 
 ## Stundenplan
 Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
