@@ -10,7 +10,7 @@ Es gibt einen Chat in dem sowohl die Lehrer, wie auch die Studenten sich austaus
 Der aktuellste Stundenplan ist immer [online](https://logrinto.github.io/IAD2017.timetable/).
 
 ## Klasse
-Die Klasse besteht aus 12 Studierenden ([Adressliste](https://logrinto.github.io/IAD2017.students/)). Alle Studenten haben einen Laptop dabei.  
+Die Klasse besteht aus 12 Studierenden ([Adressliste](https://logrinto.github.io/IAD.students/)). Alle Studenten haben einen Laptop dabei.  
 
 ## Dozierende
 <table>
